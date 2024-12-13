@@ -1,0 +1,2 @@
+[[proxy]]
+path = "src/strategy_burn_token_proxy.rs"
